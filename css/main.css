@@ -51,6 +51,8 @@ header > .container {
     line-height: 1.18;
     letter-spacing: 0.06em;
     text-align: center;
+    margin: 0;
+    margin-right: auto;
 }
 /* main */
 .info-section {
